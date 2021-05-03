@@ -3,11 +3,10 @@
     
 
 
-- 🔭 I’m currently working on Data Science & Machine Learning
+- 🔭 I’m currently working on Data Science & Machine Learning Projects 
 - 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Data Science & Machine Learning
-
+- How to reach me : [Linkedin](https://www.linkedin.com/in/ugur-savci/)
 
 
 ## My Data Science Projects 👇
