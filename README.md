@@ -10,6 +10,8 @@
 
 
 
-## My Data Science Projects 👇 :
+## My Data Science Projects 👇
+
+[Flight Price](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Flight%20Price)
 
   
