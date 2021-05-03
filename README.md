@@ -12,6 +12,8 @@
 
 ## My Data Science Projects 👇
 
-### 1. [Flight Price Prediction](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Flight%20Price)
+### 1. [Segmenting and Clustering Districts of Istanbul](https://github.com/ugursavci/Clustering-Districts-of-Istanbul)
+
+### 2. [Flight Price Prediction](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Flight%20Price)
 
   
