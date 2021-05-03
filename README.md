@@ -12,6 +12,6 @@
 
 ## My Data Science Projects 👇
 
-[Flight Price](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Flight%20Price)
+### 1. [Flight Price Prediction](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Flight%20Price)
 
   
