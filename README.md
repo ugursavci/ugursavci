@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Ugur 👋
 
 
 
@@ -7,3 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Data Science & Machine Learning
 - 📫
+
+
+## My Data Science Projects 👇:
+  
