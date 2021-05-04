@@ -15,4 +15,5 @@
 
 ### 2. [Flight Price Prediction with ML Deployment](https://github.com/ugursavci/Flight-Price-Prediction-MLDeployment)
 
+### 3. [Mall Customer Segmentation using KMeans Algorithm](https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/Mall_Customer_Segmentation/Customer_Segmentation.ipynb)
   
