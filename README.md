@@ -9,7 +9,7 @@
 - How to reach me : [Linkedin](https://www.linkedin.com/in/ugur-savci/)
 
 
-## My Data Science Projects 👇
+## Data Science Projects 👇
 
 ### 1. [Segmenting and Clustering Districts of Istanbul](https://github.com/ugursavci/Clustering-Districts-of-Istanbul)
 
